@@ -1,7 +1,7 @@
 # 💫 About Me:
 Sou estudante de Sistemas de Informação na Universidade Federal Fluminense, atualmente no sexto período! Durante meus estágios, tenho tido a oportunidade de aprender na prática e contribuir com pequenas melhorias em diferentes áreas.
 
-Tenho auxiliado na manutenção e aprimoramento de sistemas internos onde trabalho, como o de auditoria, utilizando Java e Hibernate, além de ajudar a melhorar a base de dados com SQL Server. Também tive a chance de contribuir para a automação de auditorias com Python e participei da criação de um banco de dados para melhor gestão de dados em outra empresa. Antes disso, trabalhei em melhorias para um chatbot, aprendendo muito sobre integração de sistemas com JavaScript, Node.js e React.
+Tenho auxiliado na manutenção e aprimoramento de sistemas internos onde trabalho, como o de auditoria, utilizando Java e Hibernate, além de ajudar a melhorar a base de dados com SQL Server. Também tive a chance de contribuir para a automação de auditorias com Python e participei da criação de um banco de dados para melhor gestão de dados em outra empresa. Antes disso, já trabalhei com chatbot, aprendendo muito sobre integração de sistemas com JavaScript, Node.js e React.
 
 Cada uma dessas experiências tem me ajudado a construir uma base sólida e a desenvolver habilidades que quero continuar aprimorando. Ainda estou aprendendo muito, mas estou motivado a seguir evoluindo e contribuindo com o que sei.
 
