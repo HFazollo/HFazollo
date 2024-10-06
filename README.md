@@ -1,5 +1,9 @@
 # 💫 About Me:
-Tenho foco em desenvolvimento de software backend e ciência de dados, trabalhando em soluções escaláveis e automação de processos.<br><br>Atualmente cursando o 6º período de Bacharelado em Sistemas de Informação pela UFF.<br><br>Minhas principais competências estão no desenvolvimento de sistemas utilizando Python, Java e JavaScript, além de ferramentas como Docker, Kubernetes, RabbitMQ, e frameworks como Hibernate, NodeJS e Angular.<br><br>Hard Skills:<br>- Back End<br> > APIs: REST <br> > Async Communication: RabbitMQ<br> > SQL: SQL Server, PostgreSQL, MySQL <br> > NoSQL: MongoDB <br> > ORM: JPA, Hibernate, Entity Framework<br> > Arquitetural: Clean, Microservices<br> > Containers: Docker, Kubernetes<br><br>- Front End<br> > ReactJS <br> > Angular<br> > PyQt<br><br>- Data Science<br> > NumPy<br> > SciPy<br> > RDKit<br> > DeepChem
+Sou estudante de Sistemas de Informação na Universidade Federal Fluminense, atualmente no sexto período, e estou dando meus primeiros passos no mundo da tecnologia. Durante meus estágios, tenho tido a oportunidade de aprender na prática e contribuir com pequenas melhorias em diferentes áreas.
+
+No BNDES, tenho auxiliado na manutenção e aprimoramento de sistemas internos, como o de auditoria, utilizando Java e Hibernate, além de ajudar a melhorar a base de dados com SQL Server. Também tive a chance de trabalhar no Tribunal de Contas do Estado do RJ, onde contribui para a automação de auditorias com Python e participei da criação de um banco de dados para melhor gestão de dados. Antes disso, estive na Total Sistemas, onde trabalhei em melhorias para um chatbot, aprendendo muito sobre integração de sistemas com JavaScript, Node.js e React.
+
+Cada uma dessas experiências tem me ajudado a construir uma base sólida e a desenvolver habilidades que quero continuar aprimorando. Ainda estou aprendendo muito, mas estou motivado a seguir evoluindo e contribuindo com o que sei.
 
 
 # 💻 Tech Stack:
