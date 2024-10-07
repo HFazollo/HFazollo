@@ -7,7 +7,7 @@ Cada uma dessas experiências tem me ajudado a construir uma base sólida e a de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/giovanni-toledo-740312249/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hfazollo/" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/hfazollo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hfazollo/" height="25" width="35" /></a>
 <a href="https://www.instagram.com/hfazollo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hfazollo/" height="25" width="35" /></a>
 </p>
 
