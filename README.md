@@ -17,7 +17,7 @@ Cada uma dessas experiências tem me ajudado a construir uma base sólida e a de
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HFazollo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HFazollo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HFazollo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=roff&repos=HFazollo/TopicosEngSoftwareII)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HFazollo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=roff)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HFazollo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
